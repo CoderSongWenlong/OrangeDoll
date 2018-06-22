@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  6_22Test
+//  6_23Test
 //
 //  Created by 宋文龙 on 2018/6/22.
 //  Copyright © 2018年 Orange. All rights reserved.
@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"success");
+    NSLog(@"---");
 }
 
 
